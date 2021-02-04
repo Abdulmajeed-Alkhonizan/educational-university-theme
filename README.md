@@ -1,7 +1,7 @@
 # educational-university-theme
-**Requires at least:** WordPress 5.4.2
-**Tested up to:** 5.6
-**Requires PHP:** 7.4.1
+- **Requires at least:** WordPress 5.4.2
+- **Tested up to:** 5.6
+- **Requires PHP:** 7.4.1
 
 This theme is a educational website for a fictional university where a student can view the events those planned by university or can get the latest news posted by university about professors, programs and events.
 
@@ -29,5 +29,5 @@ This theme also can be used for charities, hospitals and corporates or any other
 - Featured slider.
 - Font Awesome icons.
 
-###### Credits
+##### Credits
 This theme is inspired by *Brad Schiff* based on Udemy Wordpress Developer course.
