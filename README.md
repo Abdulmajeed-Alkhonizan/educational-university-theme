@@ -29,5 +29,5 @@ This theme also can be used for charities, hospitals and corporates or any other
 - Featured slider.
 - Font Awesome icons.
 
-** Credits **
+###### Credits
 This theme is inspired by *Brad Schiff* based on Udemy Wordpress Developer course.
