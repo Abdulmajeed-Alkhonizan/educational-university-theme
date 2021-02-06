@@ -3,7 +3,7 @@
 - **Tested up to:** 5.6
 - **Requires PHP:** 7.4.1
 
-This theme is a educational website for a fictional university where a student can view the events those planned by university or can get the latest news posted by university about professors, programs and events.
+This theme is an educational website for a fictional university where a student can view the events those planned by university or can get the latest news posted by university about professors, programs and events.
 You can visit the website [Live Demo](http://abdulmajeeda.sgedu.site/)
 ## Description
 Educational University Theme is a modern, clean and fully responsive design WordPress theme well suited for blogs, static and eductional websites.
